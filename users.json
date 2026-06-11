@@ -1,0 +1,52 @@
+{
+  "anushavan": {
+    "username": "anushavan",
+    "password": "463629",
+    "firstName": "Anushavan",
+    "lastName": "Asryan",
+    "birthDate": "1998-12-16",
+    "email": "asryana44@gmail.com",
+    "verificationCode": "768215",
+    "timestamp": 1780996958102,
+    "isAdmin": false,
+    "isEmailConfirmed": true,
+    "addresses": [
+      {
+        "street": "нарвская 18 1",
+        "city": "калининград",
+        "postalCode": "236000",
+        "country": "Россиия",
+        "id": "bf8f3426-5eb1-4d23-9916-2c6c035389d8"
+      },
+      {
+        "street": "нарвская 20 2",
+        "city": "калининград",
+        "postalCode": "236000",
+        "country": "россия",
+        "id": "92201291-3a31-4121-b16d-a00210fd28d3"
+      }
+    ]
+  },
+  "anushavan1": {
+    "username": "anushavan1",
+    "password": "463629",
+    "firstName": "Anushavan",
+    "lastName": "Asryan",
+    "birthDate": "1998-12-16",
+    "email": "asryanan22@gmail.com",
+    "verificationCode": "480223",
+    "timestamp": 1780997700784,
+    "isAdmin": false,
+    "isEmailConfirmed": true
+  },
+  "admin": {
+    "username": "admin",
+    "password": "1234",
+    "firstName": "Admin",
+    "lastName": "User",
+    "birthDate": "1990-01-01",
+    "email": "admin@example.com",
+    "isAdmin": true,
+    "isEmailConfirmed": true
+  }
+}
