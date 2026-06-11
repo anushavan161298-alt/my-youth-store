@@ -1,5 +1,4 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { usersStore, pendingRegistrations, saveUsers, savePendingRegistrations, User } from '../../lib/server-store';
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') { // Эта строка уже была правильной

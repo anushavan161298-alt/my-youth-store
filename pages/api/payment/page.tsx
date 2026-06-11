@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
-import { useUser } from '../components/UserContext';
-import { Order } from '../../lib/server-store';
+import { useUser } from '../../../app/components/UserContext';
+import { Order } from '../../../lib/server-store';
 import { Package, Clock, CheckCircle, Truck, XCircle, CreditCard } from 'lucide-react';
 import Link from 'next/link';
 
