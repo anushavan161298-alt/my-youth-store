@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, Suspense } from 'react';
-import { useToast } from '../../../components/ToastProvider'; // Исправлен путь
+import { useToast } from '../../../app/components/ToastProvider'; // Исправлен путь
 import { KeyRound } from 'lucide-react';
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
